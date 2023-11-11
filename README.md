@@ -1,16 +1,22 @@
-# Bogdan Shevchenko - Middle ML Engineer
+# Bogdan Shevchenko - ML Engineer
 
 ## About me
 
-🛠️ Leading machine learning developer at the Tyumen Oil Research Center since 2020
+🛠️ **Leading ML developer** at the Tyumen Oil Research Center since 2020
 
-🎤 Speaker at more than 20 international scientific and technical conferences in Russian and English
+🎤 **Speaker** at more than 20 international scientific and technical conferences in Russian and English
 
-📔 Author of 3 scientific publications (Scopus, VAK) in Russian and English
+📔 **Author** of 3 scientific publications (Scopus, VAK) in Russian and English
 
-🪙 Co-author of the commercial projects "AutoBalance - neural network flood control" and "Robot GIS interpreter"  
+🪙 Co-author of **the commercial projects** "AutoBalance - neural network flood control" and "Robot GIS interpreter"  
+
+
+<div align = "center">
 
 🚀 **More about me:** [Resume](https://bsshevchenko.github.io/)  🚀 
+</div>
+
+
 
 ## Languages and Tools
 
