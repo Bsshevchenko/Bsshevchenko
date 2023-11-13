@@ -2,7 +2,7 @@
 
 ## About me
 
-🛠️ **Leading ML developer** at the Tyumen Oil Research Center since 2020
+🛠️ **Leading ML developer** at the Tyumen Petroleum Research Center since 2020
 
 🎤 **Speaker** at more than 20 international scientific and technical conferences in Russian and English
 
@@ -49,7 +49,7 @@ oilfields](https://iopscience.iop.org/article/10.1088/1755-1315/931/1/012003/pdf
 
 🎧 I'm [**sound designeer**](https://vk.com/nenazivaiimen).
 
-* I work with the musician [Zayatz](https://vk.com/zaaayaaatz) and [Bob milliar](https://vk.com/bobmilliar), our track receive 100,000 streams.
+* I work with the musicians [Zayatz](https://vk.com/zaaayaaatz) and [Bob milliar](https://vk.com/bobmilliar), our tracks receive 100,000 streams.
 
 * Worked at the [Vibez](https://vk.com/vybez.studio) studio and helped bring it to a good stable income, by improving the quality of the material and working with clients, signed contracts with music schools and large companies to provide studio services.
 
