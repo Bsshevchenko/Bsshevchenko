@@ -16,6 +16,11 @@
 🚀 **More about me:** [Resume](https://bsshevchenko.github.io/)  🚀 
 </div>
 
+## Pet Projects
+
+* [SmartSavings](https://github.com/Bsshevchenko/SmartSavings) - умные сбережения
+* [СryptoPulseBot](https://github.com/Bsshevchenko/crypto-pulse-bot) - мониторинга цен криптовалют
+* [EnglishTutorBot](https://github.com/Bsshevchenko/EnglishTutorBot) - ИИ репетитор английского языка
 
 
 ## Languages and Tools
