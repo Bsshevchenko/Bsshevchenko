@@ -19,7 +19,7 @@
 ## Pet Projects
 
 * [SmartSavings](https://github.com/Bsshevchenko/SmartSavings) - умные сбережения
-* [СryptoPulseBot](https://github.com/Bsshevchenko/crypto-pulse-bot) - мониторинга цен криптовалют
+* [СryptoPulseBot](https://github.com/Bsshevchenko/crypto-pulse-bot) - мониторинг цен криптовалют
 * [EnglishTutorBot](https://github.com/Bsshevchenko/EnglishTutorBot) - ИИ репетитор английского языка
 
 
