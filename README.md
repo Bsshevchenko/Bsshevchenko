@@ -19,6 +19,7 @@
 ## Pet Projects
 
 * [SmartSavings](https://github.com/Bsshevchenko/SmartSavings) - умные сбережения
+* [ReflectionBot](https://github.com/Bsshevchenko/ReflectionBot) - ИИ бот психолог
 * [СryptoPulseBot](https://github.com/Bsshevchenko/crypto-pulse-bot) - мониторинг цен криптовалют
 * [EnglishTutorBot](https://github.com/Bsshevchenko/EnglishTutorBot) - ИИ репетитор английского языка
 
