@@ -20,6 +20,7 @@
 
 * [SmartSavings](https://github.com/Bsshevchenko/SmartSavings) - умные сбережения
 * [ReflectionBot](https://github.com/Bsshevchenko/ReflectionBot) - ИИ бот психолог
+* [TaskPlanBot](https://github.com/Bsshevchenko/TaskPlanBot) - ИИ планировщик задач
 * [СryptoPulseBot](https://github.com/Bsshevchenko/crypto-pulse-bot) - мониторинг цен криптовалют
 * [EnglishTutorBot](https://github.com/Bsshevchenko/EnglishTutorBot) - ИИ репетитор английского языка
 
